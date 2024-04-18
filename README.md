@@ -9,4 +9,4 @@
 #Assignment7-
 #Assignment8-
 #Assignment9-https://github.com/Savan-2003/AIML-2024/blob/main/Assignment9.ipynb
-#Assignment10-
+#Assignment10-https://github.com/Savan-2003/AIML-2024/blob/main/Assignment_10.ipynb
