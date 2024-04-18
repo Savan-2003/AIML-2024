@@ -6,7 +6,7 @@
 #Assignment4-https://github.com/Savan-2003/AIML-2024/blob/main/Assignment4.ipynb
 #Assignment5-https://github.com/Savan-2003/AIML-2024/blob/main/Assignment5.ipynb
 #Assignment6-
-#Assignment7-
+#Assignment7-https://github.com/Savan-2003/AIML-2024/blob/main/Assignment7.ipynb
 #Assignment8-
 #Assignment9-https://github.com/Savan-2003/AIML-2024/blob/main/Assignment9.ipynb
 #Assignment10-https://github.com/Savan-2003/AIML-2024/blob/main/Assignment_10.ipynb
